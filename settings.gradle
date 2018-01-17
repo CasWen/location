@@ -1,0 +1,5 @@
+include ':location_core'
+project(':location_core').projectDir  = new File('liba_locaiton_core')
+
+include ':location_gd'
+project(':location_gd').projectDir  = new File('liba_locaiton_gd')

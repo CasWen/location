@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/liba_push_jpush.iml" filepath="$PROJECT_DIR$/liba_push_jpush.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liba_module_location.iml" filepath="$PROJECT_DIR$/.idea/modules/liba_module_location.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liba_locaiton_core/location_core.iml" filepath="$PROJECT_DIR$/.idea/modules/liba_locaiton_core/location_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/liba_locaiton_gd/location_gd.iml" filepath="$PROJECT_DIR$/.idea/modules/liba_locaiton_gd/location_gd.iml" />
     </modules>
   </component>
 </project>
